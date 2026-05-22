@@ -1,0 +1,8 @@
+📚 Sources & Further Reading
+RT-2 Paper — arXiv 2307.15818
+Google DeepMind RT-2 Blog
+Google DeepMind — Shaping the Future of Advanced Robotics
+Beijing Half-Marathon Robot Breaks World Record — Al Jazeera
+China Leads the Humanoid Robot Race — Rest of World
+China vs Tesla Robot Race — Rest of World
+RT-2 Deep Dive — Toward Humanoids, Medium
